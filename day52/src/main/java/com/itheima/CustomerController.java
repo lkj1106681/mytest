@@ -14,6 +14,8 @@ public class CustomerController {
         customerService.saveCustomer();
 
         context.close();
+		
+		 System.out.println("hello");
 
     }
 }
