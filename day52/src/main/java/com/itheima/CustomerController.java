@@ -15,5 +15,7 @@ public class CustomerController {
 
         context.close();
 
+   System.out.println("ÄãºÃ");
+
     }
 }
